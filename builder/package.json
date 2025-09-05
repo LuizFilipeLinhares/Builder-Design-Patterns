@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "problem": "node problem.js"
+    "problem": "npm run problem"
   },
-  "author": "Ugioni",
+  "author": "Luiz",
   "license": "MIT"
 }

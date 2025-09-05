@@ -23,9 +23,10 @@ cd Builder-Design-Patterns
 
 
 - Instale dependências:
-
+```ts
 npm install
-
+```
 - Execute o projeto:
-
+```ts
 node index.js
+```ts
